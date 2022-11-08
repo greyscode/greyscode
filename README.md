@@ -11,7 +11,30 @@
 - 👨‍💻 Backend Development = 💙💙💙
 - 💞️ I’m looking to collaborate on Web dev projects
 
-
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Aman Ali Shaikh'
+		current_work = 'Student/Writing code'
+		hobbies = [
+				'keeping up with latest tech stuff',
+				'Gaming',
+				'Riding my Bike',
+				'Reading non-fiction',
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Pune_India()
+	
+	def Ambitions():
+		LearnPiano()
+		SkydivingAtLeastOnce()
+		Superbike()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+ 
 <!---
 AmanAli28/AmanAli28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
