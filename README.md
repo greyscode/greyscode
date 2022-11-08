@@ -17,7 +17,7 @@
  	user = 'Aman Ali Shaikh'
 		current_work = 'Student/Writing code'
 		hobbies = [
-				'keeping up with latest tech stuff',
+				'Keeping up with latest tech',
 				'Riding my Bike',
 				'Reading non-fiction',
 				'Being up all Night chasing that ONE BUG...'
