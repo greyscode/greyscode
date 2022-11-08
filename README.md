@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aman Ali Shaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-ali-shaikh-2802b5190)](https://www.linkedin.com/in/aman-ali-shaikh-2802b5190) [![Gmail Badge](https://img.shields.io/badge/-connect.aman.ali@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connect.aman.ali@gmail.com)](mailto:connect.aman.ali@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AmanAliShaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-ali-shaikh-2802b5190)](https://www.linkedin.com/in/aman-ali-shaikh-2802b5190) [![Gmail Badge](https://img.shields.io/badge/-connect.aman.ali@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connect.aman.ali@gmail.com)](mailto:connect.aman.ali@gmail.com)
 
 - 👋 Hi, I’m Aman Ali
 - 👀 I’m interested in Web Developement
