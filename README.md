@@ -4,11 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AmanAliShaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-ali-shaikh-2802b5190)](https://www.linkedin.com/in/aman-ali-shaikh-2802b5190) [![Gmail Badge](https://img.shields.io/badge/-connect.aman.ali@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connect.aman.ali@gmail.com)](mailto:connect.aman.ali@gmail.com)
 
-- 👀 I’m interested in <br>Web Developement/Backend Development, Cloud Computing, web3...
-- 🌱 I’m currently trying to get better at 
-	Node.js, rest API, Microsoft Azure
-- 👨‍💻 Backend Development = 💙💙💙
-- 💞️ I’m looking to collaborate on Web dev projects
+- 👀 Interested in <br>Web Developement/Backend Development, <br>Cloud Computing, <br>web3...<br>
+- 🌱 Currently trying to get better at <br>Node.js, <br>rest API, <br>Microsoft Azure<br>
+- 👨‍💻 Backend Development = 💙💙💙<br>
+- 💞️ Looking to collaborate on Web dev projects
 
  ## Who am I?
  ```python
