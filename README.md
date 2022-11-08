@@ -18,7 +18,6 @@
 		current_work = 'Student/Writing code'
 		hobbies = [
 				'keeping up with latest tech stuff',
-				'Gaming',
 				'Riding my Bike',
 				'Reading non-fiction',
 				'Being up all Night chasing that ONE BUG...'
