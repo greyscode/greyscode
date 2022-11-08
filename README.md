@@ -6,9 +6,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AmanAliShaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-ali-shaikh-2802b5190)](https://www.linkedin.com/in/aman-ali-shaikh-2802b5190) [![Gmail Badge](https://img.shields.io/badge/-connect.aman.ali@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connect.aman.ali@gmail.com)](mailto:connect.aman.ali@gmail.com)
 
-- 👀 I’m interested in Web Developement
+- 👀 I’m interested in Web Developement/Backend Development, Cloud Computing, web3...
 - 🌱 I’m currently learning Node.js, rest API, Microsoft Azure
-- Backend Development = 💙💙💙
+- 👨‍💻 Backend Development = 💙💙💙
 - 💞️ I’m looking to collaborate on Web dev projects
 
 
